@@ -213,4 +213,14 @@ h1, h2, h3, h4, h5, h6 {
         flex-basis: 90% !important;
   }
 }
+
+.project {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  padding: 7px 12px;
+  background: cyan;
+  color: blue;
+  text-shadow: 3px 1px 5px white;
+}
 /*# sourceMappingURL=style.css.map */
